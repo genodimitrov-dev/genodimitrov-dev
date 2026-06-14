@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Geno Dimitrov 👋
 
-<!--
-**genodimitrov-dev/genodimitrov-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Systems and Technologies Student at Technical University of Sofia – Plovdiv Branch.
 
-Here are some ideas to get you started:
+## Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C#
+- .NET
+- LINQ
+- JSON
+- Git
+- GitHub
+- C++ (Basic)
+- Python (Basic)
+- SQL (Basic)
+
+## Featured Projects
+
+### TaskManagerPro
+Full-featured task management system with:
+- CRUD operations
+- LINQ filtering
+- Deadline tracking
+- Statistics
+- JSON persistence
+- TXT reporting
+
+### InventoryManagementSystem
+Inventory and stock management application.
+
+### PasswordManager
+Password storage and management application.
+
+## Currently Learning
+
+- Advanced C#
+- C++
+- Cybersecurity
+- Networking
+- Ethical Hacking
